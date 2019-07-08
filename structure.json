@@ -1,0 +1,21 @@
+{
+  "structure": {
+    "version": "0",
+    "root": {
+      "title": "Техническая документация",
+      "path": "/docs",
+      "items": [
+        {
+          "title": "Terms of Service",
+          "path": "/docs/index",
+          "items": []
+        },
+        {
+          "title": "Общее описание технологии",
+          "path": "/docs/other",
+          "items": []
+        }
+      ]
+    }
+  }
+}
